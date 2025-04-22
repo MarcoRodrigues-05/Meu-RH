@@ -28,6 +28,6 @@ Meu RH é um sistema de gerenciamento de vagas de emprego e candidatos. Ele perm
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
+## Desenvolvimento
 
 Desenvolvido por [Marco Paulo Soares Rodrigues/E turma de TI - Una Sete Lagoas].
