@@ -1,4 +1,4 @@
-# Meu RH (ou Nome Alternativo)
+# Meu RH 
 
 Meu RH é um sistema de gerenciamento de vagas de emprego e candidatos. Ele permite que empresas cadastrem, editem e gerenciem vagas, além de acompanhar os candidatos interessados.
 
